@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.db432124.css",
-    "main.js": "/static/js/main.d1578845.js",
-    "static/js/787.084501cc.chunk.js": "/static/js/787.084501cc.chunk.js",
-    "index.html": "/index.html",
-    "main.db432124.css.map": "/static/css/main.db432124.css.map",
-    "main.d1578845.js.map": "/static/js/main.d1578845.js.map",
-    "787.084501cc.chunk.js.map": "/static/js/787.084501cc.chunk.js.map"
+    "main.css": "/upwork_selection_applet/static/css/main.db432124.css",
+    "main.js": "/upwork_selection_applet/static/js/main.fa5f407b.js",
+    "static/js/787.084501cc.chunk.js": "/upwork_selection_applet/static/js/787.084501cc.chunk.js",
+    "index.html": "/upwork_selection_applet/index.html",
+    "main.db432124.css.map": "/upwork_selection_applet/static/css/main.db432124.css.map",
+    "main.fa5f407b.js.map": "/upwork_selection_applet/static/js/main.fa5f407b.js.map",
+    "787.084501cc.chunk.js.map": "/upwork_selection_applet/static/js/787.084501cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db432124.css",
-    "static/js/main.d1578845.js"
+    "static/js/main.fa5f407b.js"
   ]
 }
